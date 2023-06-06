@@ -1,0 +1,3 @@
+Mohammad, 12, 10
+Ali, 5, 30Mohammad, 2, 102
+Ali, 6, 102

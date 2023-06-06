@@ -1,0 +1,770 @@
+G$	B*	G*	B$	G%	B%	G	B	
+G	G	B	G	B	G	B	G	
+G	B	G	B	G	G	B	B	
+B	B	G	G	B	G	B	G	
+G	B	G	B	G	B	B	G	
+B	G	B	G	G	B	G	B	
+B	G	G	B	G	B	G	B	
+B	B	G	G	B	G	B	G	
+Green: 5, Black: 3
+Green Wone!
+----------------------------------------------------------
+G%	B*	G$	B	G	B	G	B	
+G	B$	B	G	B	B	G	G	
+G	B	G	B	G	B	G	B	
+G	B	B	B	G	G	B	G	
+B	G	B	B	G	B	B	B	
+B	G	B%	B	G*	G	G	G	
+G	B	B	B	G	G	G	B	
+B	G	B	G	B	G	B	G	
+Green: 2, Black: 4
+Black Wone!
+----------------------------------------------------------
+G%	G$	B$	B*	G*	B%	B	G	
+G	G	B	B	B	G	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+G	B	G	B	G	B	B	G	
+B	G	G	B	G	B	G	B	
+G	B	G	B	G	B	G	G	
+B	G	B	G	B	G	B	B	
+Green: 4, Black: 3
+Green Wone!
+----------------------------------------------------------
+B	G	B	G	B	G	G	G	
+B	G	B	G	B	G	B	G	
+B	G	B	G	B	G	B	G	
+G	B	B$	G%	G	B	G	B	
+B	G	G$	B*	B	G	B	G	
+G	B	G%	B	B*	B	G	B	
+G	B	B	B	G	G	G	B	
+B	G	B	G	B	G	B	G	
+Green: 2, Black: 3
+Black Wone!
+----------------------------------------------------------
+B	B	B	G	B	G	B	G	
+G	G	G	B	G	B%	B	G	
+B	B	G	B	B%	B	G	B	
+G	G	G	G$	B	G	B	G	
+B	G	G	B*	B	B	G	B	
+G	G	B	G	G*	B	B	G	
+B	B	G	G	B	B$	G	B	
+G	G	G	G	B	G	B	B	
+Green: 2, Black: 2
+Equal!
+----------------------------------------------------------
+B	G	B	G	B	G	B	G	
+G	G	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	G$	B	G*	B	B%	B	G	
+B	G$	B*	G	G%	G	G	B	
+B	B	B	B	B	B	B	B	
+G	G	G	B	B	G	G	G	
+G	G	G	G	B	B	B	B	
+Green: 5, Black: 6
+Black Wone!
+----------------------------------------------------------
+G*	G	G	B*	G	G	G	G	
+B%	G$	G	B	B	B	B	B	
+G	B	G	B	G	G	G	G	
+G	B	G	B	B	B	B	B	
+G	B	G	B	G	G	G	G	
+G	B	G	B	B	B	B	B	
+G	G%	G	G$	G	G	G	G	
+B	B	B	G	B	B	B	B	
+Green: 7, Black: 6
+Green Wone!
+----------------------------------------------------------
+G	G	G	G	G	G	G	G	
+B	B	B	B	B	B	B	B	
+B	G	G	B	G	B	B	G	
+G	B	G	B	G	B	B	G	
+B	G	B	G	G	G	G	B	
+B	G	B*	G*	B	B	G	G	
+G	B	B%	B$	G$	G%	B	B	
+G	B	B	B	G	G	G	B	
+Green: 4, Black: 5
+Black Wone!
+----------------------------------------------------------
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	B	G	B	G	
+B	G	B	B$	G	B	G	B	
+G%	G*	B*	B$	B%	G	B	G	
+G	B	G	B	B	G	B	G	
+B	B	G	B	G	B	B	G	
+G	B	G	B	G	G	B	G	
+Green: 3, Black: 11
+Black Wone!
+----------------------------------------------------------
+G	B	B	G	G	B	G	B	
+B	G	B	B	G	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G$	G	B	G	B	G	
+G*	B$	G%	B*	G%	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+Green: 7, Black: 5
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	B	G	B	
+B	G	G	G	B	G	B	G	
+G	B	B	B	G	B	B	G	
+B	G	G	G	B	G	G	B	
+G	B	G*	G$	G	B	B	G	
+B	B*	G%	G$	G	B	G	B%	
+G	G	B	B	B	B	B	B	
+G	B	G	B	G	B	G	B	
+Green: 3, Black: 5
+Black Wone!
+----------------------------------------------------------
+B	G	B	G	G	B	B	G	
+B	G	G	B	G	G	B	B	
+B	G	B	G	B	G	B	G	
+G	B$	B	G	B	G	B	G	
+G*	B%	B	B	B	B	B	B	
+G*	G$	B%	G	G	G	G	G	
+B	B	G	B	G	B	G	B	
+G	B	B	G	B	G	B	G	
+Green: 3, Black: 7
+Black Wone!
+----------------------------------------------------------
+B	G	G	G	G	G	B	G	
+B	B	B	B	B	B	G	B	
+B	B	G	G	B	B	G	G	
+G	B$	G$	G	B	B	G	B	
+G*	B%	G*	B%	G	G	G	B	
+G	G	B	B	G	B	G	B	
+G	B	B	G	G	B	G	B	
+B	G	G	B	G	B	G	B	
+Green: 8, Black: 4
+Green Wone!
+----------------------------------------------------------
+B	G	G	B	G	B	G	B	
+G	B	B	G	B	G	B	G	
+B	G	G	B	G	B	G	B	
+B	B$	G	B	G	B	G	G	
+G*	B%	B	B	B	B	B	B	
+G*	G$	B%	G	G	G	G	G	
+B	B	G	B	G	B	G	B	
+G	B	B	G	B	G	B	G	
+Green: 4, Black: 6
+Black Wone!
+----------------------------------------------------------
+G	B	B	B	B	B	G	B	
+G	B	G	G	G	G	B	B	
+B	G	B	G	B	G	G	G	
+G	B	G	B	G	B	B	B	
+B	B	G	G*	G	B%	G	G	
+G	B	G	B$	B	B	G%	B	
+G	B	B*	B$	G	G	B	G	
+B	G	G	B	G	B	G	B	
+Green: 4, Black: 5
+Black Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	B	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	B	G	
+B	G	B	G	B	B	G	B	
+G	G%	G*	B$	B*	G$	B%	G	
+G	G	B	G	B	B	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+Green: 6, Black: 6
+Equal!
+----------------------------------------------------------
+B	B	B	B	B	B	B	B	
+G	G	G	G	G	G	G	G	
+B$	G%	G$	G*	B%	G	B	B	
+B	B*	G	B	G	G	B	G	
+B	G	B	G	B	G	B	G	
+G	G	B	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+Green: 9, Black: 8
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+B	B	B	B	B	B	B	B	
+G	G	G	G	G	G	G	G	
+B	B	B	B	B	B	B	B	
+G	G	G	G	G	G	G	G	
+B	B	B	B	B	B	B	B	
+G	G	G	G	G	G	G	G	
+B%	B*	G*	G$	G%	B$	G	B	
+G	B	B	G	G	B	G	B	
+Green: 7, Black: 7
+Equal!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+B	G	B	G	B	B	G	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	B%	G	B	G	G	G	G	
+B*	B$	G%	B*	G$	B	B	B	
+G	G	B	G	B	G	B	G	
+G	B	G	G	B	B	G	B	
+Green: 6, Black: 4
+Green Wone!
+----------------------------------------------------------
+G	B	G	G	B	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	B	G	
+B	G	B	G	B	G	G	B	
+G	B	G	B	B	G	G	B	
+B%	G*	B$	G	B*	G$	B	G%	
+G	B	G	B	G	G	G	G	
+B	G	B	G	B	G	B	B	
+Green: 10, Black: 8
+Green Wone!
+----------------------------------------------------------
+G	B	G	G	B	G	B	G	
+B	G	B	B	G	B	G	B	
+G	B	G	B	G	B	B	G	
+B	G	B	G	G	B	G	B	
+G	B	G	B	G	B	B	G	
+B	G	B	G	B	G	G	B	
+G*	B%	G$	B$	B*	G%	B	G	
+B	G	G	B	G	B	G	B	
+Green: 6, Black: 6
+Equal!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+G*	B*	G$	B$	G%	B	B%	G	
+G	G	B	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	G	B	G	B	
+G	B	B	G	B	G	G	G	
+B	G	G	B	G	B	B	B	
+G	B	B	G	B	G	B	G	
+Green: 5, Black: 4
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+G	B	G	B	G	G	B	G	
+B	G	B	G	B	B	B	G	
+B	G	B	G	B	G	B	G	
+G	G	B	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+B	G	G	B	G	B	G	B	
+B*	B$	G$	G*	B%	G%	B	G	
+G	B	G	B	G	G	G	B	
+Green: 7, Black: 6
+Green Wone!
+----------------------------------------------------------
+B	G	B	G	B	B	G	G	
+G	B	G	G	B	B	G	B	
+G	B	B	G	B	G	B	G	
+B	G	G	B	G	B	G	B	
+G	B	B	G	B	G	B	G	
+B*	G%	B$	G$	G*	B%	G	B	
+G	B	B	G	B	G	B	G	
+B	G	B	G	G	B	G	B	
+Green: 7, Black: 9
+Black Wone!
+----------------------------------------------------------
+G	B	G	B	G	B	B	G	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	G	B	B	G	B	G	
+G	G	B	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G$	B$	G%	B*	G*	B%	G	B	
+G	B	B	G	B	G	G	B	
+Green: 6, Black: 7
+Black Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+B	G	B	G	B	G	B	G	
+B	G	B	G	B	G	B	G	
+B	G	B	G	G	B	G	B	
+B	G	G	B	B	G	G	B	
+G	B	B	G	G	B	G	B	
+B	G	G	B	G	B	G	B	
+B*	G$	B%	G%	B$	G*	B	G	
+G	B	G	G	B	B	G	B	
+Green: 9, Black: 3
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+B	G	B	B	G	B	G	B	
+G	B	G	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	G	B	G	B	B	B	
+B*	B$	G%	G*	B%	G$	G	G	
+B	B	G	B	G	G	B	G	
+Green: 6, Black: 4
+Green Wone!
+----------------------------------------------------------
+G	B	B	B	G	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	B	G	G	G	B	
+G	B	G	G	B	B	B	G	
+B	G	B%	G*	G	G	G	B	
+B	G	B*	G$	G	B	B	G	
+G	B	B$	B%	G	B	G	B	
+B	G	B	B	G	B	B	G	
+Green: 5, Black: 1
+Green Wone!
+----------------------------------------------------------
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B%	G$	B$	G*	B*	G%	B	
+B	G	G	B	G	G	B	B	
+Green: 8, Black: 9
+Black Wone!
+----------------------------------------------------------
+G	B	G	B	G	B	B	G	
+B	G	G	B	B	G	B	G	
+G	B	B	G	G	B	G	B	
+B	B$	B	G	B	G	B	G	
+G	B%	G	B	B	B	B	B	
+G*	G*	G$	B%	G	G	G	G	
+B	B	G	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+Green: 4, Black: 6
+Black Wone!
+----------------------------------------------------------
+B	G	G	G	G	G	G	G	
+G	B	B	B	B	B	B	B	
+B	G	G	B	G	B	B	G	
+G	B*	G%	B	B	G	G	B	
+B$	G*	B$	B%	G	B	B	G	
+B	B	G	G	B	G	B	G	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	B	G	
+Green: 5, Black: 10
+Black Wone!
+----------------------------------------------------------
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	B	G	G	
+G	G*	B	B	G$	B	G%	B	
+B	G	G	G	G	G	B	G	
+Green: 8, Black: 8
+Equal!
+----------------------------------------------------------
+B*	G%	B$	G	B%	G	B	G	
+G	B	B	B	B	B	G	B	
+G	B	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	G$	B	B	G*	G	B	
+G	B	G	B	G	B	G	B	
+Green: 7, Black: 9
+Black Wone!
+----------------------------------------------------------
+G*	B$	G	B*	G	B%	G	B	
+G	G	G	B	B	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	B	G	B	G	
+B	G	B	G	G	B	G	B	
+G	B	G	B	G	B	B	G	
+B	G	B	G$	B	G%	G	B	
+B	G	B	G	G	G	B	G	
+Green: 4, Black: 4
+Equal!
+----------------------------------------------------------
+G*	B*	G	B$	G	B%	G	B	
+B	G	B	B	B	B	B	G	
+B	G	G	B	B	G	B	G	
+G	B	G	B	G	G	B	B	
+B	G	B	G	B	G	B	G	
+G	G	B	B	B	G	B	G	
+B	B	B	G$	G%	G	G	B	
+G	B	B	G	G	B	G	B	
+Green: 2, Black: 8
+Black Wone!
+----------------------------------------------------------
+G	B	G	B	G	B	G*	B	
+B	G	G	B	G	B	G	G	
+G	B	G	B	G	B	G	B	
+G	B	G	B	G	B	G	B	
+G	B	G	B	B	G	G	B	
+G	B	G	B	B	G	B	G	
+B	G%	B%	G$	B$	G	B*	G	
+G	B	B	G	B	G	B	B	
+Green: 5, Black: 7
+Black Wone!
+----------------------------------------------------------
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	B	G	G	
+G	B	G	B	G	B	G	B	
+G	B	B	G	B	G	G	B	
+B	G	G	B	G	B	B	G	
+B	G	B	G	B	G	B	G	
+G*	G$	G%	B%	B$	B*	G	B	
+G	G	B	B	B	B	B	B	
+Green: 6, Black: 8
+Black Wone!
+----------------------------------------------------------
+G*	B*	G$	B%	G%	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	B	G	G	
+B	G	G	B	G	B	G	B	
+G	B	G	B	B	G	B	G	
+B$	G	B	G	G	B	B	G	
+B	G	G	B	G	B	B	G	
+Green: 7, Black: 8
+Black Wone!
+----------------------------------------------------------
+G$	G*	B%	B	G%	B	G	B	
+G	B	G	G	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	G	B	B	B	G	
+B	G	B	G	B	G	G	B	
+G	B	G	B	B	G	G	B	
+G	B*	G	B$	B	G	G	B	
+B	G	B	B	G	B	G	B	
+Green: 5, Black: 5
+Equal!
+----------------------------------------------------------
+B	G	B	G%	B	G$	B	G*	
+G	G	G	B	G	G	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+B	G	B	G	G	B	G	B	
+G	B	B%	G	B$	G	B*	G	
+B	B	B	G	B	G	B	B	
+Green: 8, Black: 6
+Green Wone!
+----------------------------------------------------------
+B	B	G	G%	B	G$	B	G*	
+G	B	G	G	G	G	G	B	
+B	G	B	G	B	G	B	G	
+B	G	B	G	G	B	G	B	
+G	B	B	G	G	B	G	B	
+G	B	G	B	G	G	G	G	
+B	B*	B$	B%	G	B	G	B	
+B	B	B	G	B	G	B	G	
+Green: 11, Black: 3
+Green Wone!
+----------------------------------------------------------
+G	B	G$	B	G%	B	G*	B	
+G	B	G	G	B	G	B	G	
+G	G	B	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	B	G	G	B	
+B	G	B	G	B	G	B	G	
+G	B%	G	B$	B*	G	B	G	
+B	B	G	B	B	B	G	B	
+Green: 6, Black: 9
+Black Wone!
+----------------------------------------------------------
+B	G	B	G	B$	G*	B*	G	
+B	G	B	G	B	G	G	B	
+G	B	G	B	B	G	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+G	B	G	G	B	G$	G	G	
+B	G	B	G	B	G%	B	B	
+B	G	B	B	B	G	B	G	
+Green: 6, Black: 6
+Equal!
+----------------------------------------------------------
+B	G	B	G	B%	G	B$	G	
+B	G	B	B	B	G	B	G	
+B	G	B	G	G	B	G	B	
+B	G	B	G	B	G	B	G	
+B	G	G	B	B	G	B	G	
+G	G$	G*	B	G%	B	G	B	
+B	G$	B	G	G	G	B	B	
+B	B	B	G	G	B	G	G	
+Green: 5, Black: 6
+Black Wone!
+----------------------------------------------------------
+G	B	G	G	B	B	G	B	
+B	G	G	B	B	G	B	G	
+B	G	B	G	B	G	G	B	
+G	B	G	B	G	B	B	G	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+G*	B	B	G$	B	G	G%	B	
+G	G	G	G	G	G	G	B	
+Green: 9, Black: 6
+Green Wone!
+----------------------------------------------------------
+B	G	G%	B	B	G$	B	G*	
+G	G	G	B	G	G	G	B	
+B	G	B	G	B	G	B	G	
+B	G	G	B	G	B	B	G	
+B	G	B	G	B	G	G	B	
+G	B	G	G	B	G	B	B	
+B$	G	G	G	B%	B*	B	G	
+B	B	B	B	G	B	B	B	
+Green: 6, Black: 5
+Green Wone!
+----------------------------------------------------------
+G	B	G%	B	G*	B	G$	B	
+B	G	B	B	G	G	G	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	G	B	B	G	
+G	B	G	B	B	G	B	G	
+B	G	B	G	B	G	B	G	
+G	B%	G	G	B$	B*	G	B	
+B	B	G	B	B	B	B	B	
+Green: 6, Black: 8
+Black Wone!
+----------------------------------------------------------
+B*	G	B$	G	B%	G	B	G	
+G	B	B	B	G	B	G	B	
+B	G	G	B	B	G	B	G	
+G	B	G	B	G	B	B	G	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G$	B	G*	B	G	B	G%	
+G	G	G	B	G	G	G	G	
+Green: 8, Black: 7
+Green Wone!
+----------------------------------------------------------
+G	B$	G	B*	G	B%	G	B	
+B	B	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+B	B	G$	B	G*	G	B	G%	
+B	G	G	G	G	G	G	G	
+Green: 10, Black: 9
+Green Wone!
+----------------------------------------------------------
+G*	B	G$	B	G	B	G%	B	
+B	G	G	G	G	G	G	B	
+G	B	G	B	B	G	B	G	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+G	B	G	B	G	B	G	B	
+G	B$	G	B%	B*	G	B	G	
+B	B	B	B	B	B	B	G	
+Green: 3, Black: 4
+Black Wone!
+----------------------------------------------------------
+G*	B*	G	B%	G	B$	G	B	
+B	G	B	G	G	B	G	B	
+G	G	B	G	B	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G%	B	G$	B	G	B	
+B	G	B	G	G	G	B	G	
+Green: 6, Black: 5
+Green Wone!
+----------------------------------------------------------
+B	G	B	G%	B	G$	B	G*	
+G	B	G	B	B	G	B	G	
+B	G	B	G	G	B	G	B	
+G	B	G	B	B	G	G	B	
+G	B	B	B	G	G	B	G	
+G	G	B	B	G	B	G	B	
+G	B$	G	B%	B*	G	B	G	
+B	B	B	B	B	B	B	G	
+Green: 5, Black: 12
+Black Wone!
+----------------------------------------------------------
+B*	G*	B$	G	B%	G	B	G	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	B	G	B	G	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+B	B	G%	B	G$	G	B	G	
+G	G	G	B	G	G	B	G	
+Green: 5, Black: 5
+Equal!
+----------------------------------------------------------
+B	G	B	G%	B	G$	B	G*	
+G	B	G	B	G	G	G	B	
+B	G	B	G	B	G	G	B	
+G	B	G	B	G	B	G	B	
+B	G	B	G	B	G	B	G	
+G	B	G	B	G	B	G	B	
+G	B$	G	B%	B*	G	B	G	
+B	B	B	B	B	B	B	G	
+Green: 6, Black: 7
+Black Wone!
+----------------------------------------------------------
+G	B	G	B	G	B$	G	B%	
+B	G	B	G	B	B	B	G	
+G	B	G	B	G	B	G	B	
+G	B	G	B*	G$	B	G	B	
+B	B	G	G	B	G	B	G	
+G%	B	B	G	B	B	B	G	
+G	G	B	G	B	G	B	G	
+B	G*	B	G	B	G	B	G	
+Green: 2, Black: 6
+Black Wone!
+----------------------------------------------------------
