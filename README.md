@@ -26,6 +26,14 @@ This project is an OOP(Object Oriented Programming) which made with Java program
 For compiling this project you should compile this file: `src/Game/Run.java`.
 
 # Screenshots
+<img width="806" alt="image" src="https://github.com/mohamadkhalaj/Tdooz/assets/62938359/d709ee50-65d1-4a21-90e1-dd145a70d8fa">
+<img width="586" alt="image" src="https://github.com/mohamadkhalaj/Tdooz/assets/62938359/9d7dfa08-9e11-4a29-9d25-e06622136e97">
+<img width="586" alt="image" src="https://github.com/mohamadkhalaj/Tdooz/assets/62938359/d6a72396-d862-42c3-9ef3-eff0810b0192">
+<img width="599" alt="image" src="https://github.com/mohamadkhalaj/Tdooz/assets/62938359/d6f625d1-a9fa-483e-8d8d-fe9105743e81">
+<img width="599" alt="image" src="https://github.com/mohamadkhalaj/Tdooz/assets/62938359/43ecc1bf-41f7-41bc-9c3c-51168c84f462">
+<img width="586" alt="image" src="https://github.com/mohamadkhalaj/Tdooz/assets/62938359/adbed29b-6ba1-47ca-9b28-601720c4ebaf">
+<img width="652" alt="image" src="https://github.com/mohamadkhalaj/Tdooz/assets/62938359/bd7f6a3a-83cc-48c9-92f0-9ab65cf0ced4">
+<img width="652" alt="image" src="https://github.com/mohamadkhalaj/Tdooz/assets/62938359/83f66750-a3f0-47e6-94ec-9a071ccf52f4">
 
 
 # Team members
